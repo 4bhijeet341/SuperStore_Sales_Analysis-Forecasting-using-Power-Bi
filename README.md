@@ -29,6 +29,7 @@ Utilized forecasting models to predict upperbound, lowerbound, and expected sale
 Displayed the forecasted sales through visualizations, providing a strategic outlook for short-term planning.
 
 **Insights:**
+
 **_1) Regional Sales Dominance:_** The West Region exhibited the highest number of sales, with California being the primary contributor.
 
 **_2) Shipping Preferences:_** Customers predominantly opt for standard shipping over other shipping methods.
@@ -49,7 +50,8 @@ Displayed the forecasted sales through visualizations, providing a strategic out
 
 
 _**Dashboard**_
-![image](https://github.com/4bhijeet341/SuperStore_Sales_Analysis-Forecasting-using-Power-Bi/assets/150332865/39713301-f1ea-4496-9690-196a1d1fc112)
+![image](https://github.com/4bhijeet341/SuperStore_Sales_Analysis-Forecasting-using-Power-Bi/assets/150332865/90296620-6a00-48ee-8601-e001eb3b0d5a)
+
 
 _**Forecasting**_
 ![image](https://github.com/4bhijeet341/SuperStore_Sales_Analysis-Forecasting-using-Power-Bi/assets/150332865/50d283be-b248-441f-b66f-6141304cafe9)
